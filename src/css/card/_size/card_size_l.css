@@ -1,0 +1,30 @@
+.card_size_l {
+  height: 690px;
+
+  width: 100%;
+}
+
+.card_size_l .card__title {
+  margin: 106px 0 10px 58px;
+}
+
+.card_size_l .card__content {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding-bottom: 119px;
+}
+
+.card_size_l .card__description {
+  max-width: 414px;
+  margin-left: 60px;
+}
+
+.card_size_l .card__button {
+  margin-left: 60px;
+}
+
+.card_size_l .card__badge {
+  top: 37px;
+  right: 37px;
+}

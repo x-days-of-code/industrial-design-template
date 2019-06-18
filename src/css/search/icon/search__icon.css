@@ -1,0 +1,10 @@
+.search__icon {
+  position: absolute;
+  height: 22px;
+  width: 22px;
+  background-image: url(./search__field-icon.svg);
+  background-position: center center;
+  background-size: contain;
+  top: 5px;
+  left: 2px;
+}

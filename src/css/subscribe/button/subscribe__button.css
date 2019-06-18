@@ -1,0 +1,14 @@
+.subscribe__button {
+  font-family: League Spartan;
+  font-weight: bold;
+  font-size: 18px;
+  line-height: 55px;
+
+  letter-spacing: 2px;
+
+  color: #ffffff;
+  background: none;
+  text-transform: uppercase;
+  height: 60px;
+  border: 3px solid #82c9d8;
+}

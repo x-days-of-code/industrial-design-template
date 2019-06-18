@@ -1,0 +1,7 @@
+@import url("./search/header__search.css");
+
+.header {
+  max-height: 72px;
+  display: flex;
+  justify-content: space-between;
+}

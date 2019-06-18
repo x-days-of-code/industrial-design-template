@@ -1,0 +1,17 @@
+.search__field {
+  background-color: var(--main-bg);
+  padding: 0;
+  border-width: 0 0 3px 0;
+  border-color: var(--main-border-color);
+  font-size: 24px;
+  line-height: 30px;
+  max-width: 100%;
+  padding-left: 33px;
+  padding-bottom: 5px;
+  outline: none;
+  color: var(--main-font-color);
+}
+
+.search__field:focus {
+  border-color: var(--focused-border-color);
+}

@@ -1,0 +1,18 @@
+@import url("./button/card__button.css");
+@import url("./content/card__content.css");
+@import url("./title/card__title.css");
+@import url("./image/card__image.css");
+@import url("./description/card__description.css");
+@import url("./badge/card__badge.css");
+@import url("./_size/card_size_l.css");
+@import url("./_size/card_size_m.css");
+@import url("./_size/card_size_s.css");
+@import url("./_align/card_align_left.css");
+@import url("./_align/card_align_right.css");
+@import url("./_align/card_align_top.css");
+@import url("./_align/card_align_bottom.css");
+
+.card {
+  position: relative;
+  margin-bottom: 40px;
+}

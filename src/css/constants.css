@@ -1,4 +1,13 @@
 * {
-  --main-bg: #000;
+  --main-bg: #272f45;
+
+  --main-border-color: #63757e;
+  --focused-border-color: #98a7ae;
+
   --main-font-color: #fff;
+
+  --card-button-border-color: #eec9a2;
+  --card-hovered-button-border-color: #c89a6a;
+
+  box-sizing: border-box;
 }

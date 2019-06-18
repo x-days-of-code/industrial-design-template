@@ -13,3 +13,13 @@ body {
 
 /* blocks */
 @import url("./main/main.css");
+@import url("./page/page.css");
+@import url("./header/header.css");
+@import url("./search/search.css");
+@import url("./logo/logo.css");
+@import url("./content/content.css");
+@import url("./card/card.css");
+@import url("./subscribe/subscribe.css");
+@import url("./copyright/copyright.css");
+@import url("./menu/menu.css");
+@import url("./footer/footer.css");

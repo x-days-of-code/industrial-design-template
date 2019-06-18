@@ -1,0 +1,15 @@
+.card_align_bottom .card__content {
+  flex-direction: column-reverse;
+  padding-bottom: 37px;
+}
+
+.card_align_bottom .card__description {
+  order: 2;
+  flex: 0;
+  margin-top: 64px;
+}
+
+.card_align_bottom .card__title {
+  order: 1;
+  margin-top: 10px;
+}

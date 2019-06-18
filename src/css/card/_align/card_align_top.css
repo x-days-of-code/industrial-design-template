@@ -1,0 +1,9 @@
+.card_align_top .card__description {
+  order: -1;
+  flex: 0;
+  margin-top: 64px;
+}
+
+.card_align_top .card__title {
+  margin-top: 10px;
+}

@@ -1,0 +1,11 @@
+@import url("./_type/card__badge_type_kickstarter.css");
+
+.card__badge {
+  width: 115px;
+  height: 115px;
+  background-size: contain;
+  background-position: center center;
+  background-repeat: no-repeat;
+  position: absolute;
+  z-index: 2;
+}

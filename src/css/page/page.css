@@ -1,0 +1,6 @@
+@import url("./subscribe/page__subscribe.css");
+
+.page {
+  max-width: 1160px;
+  margin: 65px auto 0;
+}

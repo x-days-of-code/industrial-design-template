@@ -1,0 +1,13 @@
+.menu__item {
+  display: inline-block;
+  margin-right: 5px;
+}
+
+.menu__item::before {
+  content: "•";
+  margin-right: 5px;
+}
+
+.menu__item:first-child::before {
+  display: none;
+}

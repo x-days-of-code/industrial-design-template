@@ -1,0 +1,12 @@
+.card_align_right {
+  text-align: right;
+}
+
+.card_align_right .card__description {
+  margin-right: 30px;
+  margin-left: 50px;
+}
+
+.card_align_right .card__button {
+  margin-right: 30px;
+}
