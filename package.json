@@ -1,21 +1,21 @@
 {
-  "name": "static-frontend-boilerplate",
+  "name": "industrial-design-template",
   "version": "1.0.0",
   "description": "Boilerplate for html and css",
   "main": "index.js",
   "husky": {
     "hooks": {
-      "pre-commit": "pretty-quick --staged"
+      "pre-commit": "pretty-quick --pattern=\"src/**/*.*\""
     }
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "rm -r dev || true && parcel src/index.html --out-dir dev",
-    "build": "rm -r public || true && parcel build src/index.html --out-dir public"
+    "build": "rm -r docs || true && parcel build src/index.html --out-dir docs"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/poalrom/static-frontend-boilerplate.git"
+    "url": "git+https://github.com/poalrom/industrial-design-template.git"
   },
   "keywords": [
     "html-boilerplate",
@@ -26,9 +26,9 @@
   "author": "Alex Popkov",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/poalrom/static-frontend-boilerplate/issues"
+    "url": "https://github.com/poalrom/industrial-design-template/issues"
   },
-  "homepage": "https://github.com/poalrom/static-frontend-boilerplate#readme",
+  "homepage": "https://github.com/poalrom/industrial-design-template#readme",
   "dependencies": {
     "reset.css": "2.0.2"
   },

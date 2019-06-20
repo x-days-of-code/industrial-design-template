@@ -1,12 +1,3 @@
-# Boilerplate for static site
+# Industrial design template
 
-## Features
-
-- No React/Angular/Vue/_other heavy framework_ 🏋️
-- Only pure css and html 🌈
-- Fast production build included ⚡️
-- Zero configurable tools 🔧
-- BEM file structure example included 📦
-- Prettier file formatting as pre-commit hook 🎊
-
-**Feel free to use in your projects!**
+[Figma](https://figma.com/file/OJXh9bCtgZ1bnhR1oslS4rtY/industrial_design_magazine)
